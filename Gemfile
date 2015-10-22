@@ -24,6 +24,6 @@ group :development, :test do
   gem 'capistrano-passenger'
 end
 
-# gem 'passenger'
+gem 'passenger'
 
 
